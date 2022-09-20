@@ -1,0 +1,16 @@
+.fist {
+    background-color: rgb(248, 164, 164);
+    font-family: Verdana, "Dejavu Sans", sans-serif
+}
+#one
+{
+    font-size: 36px;
+}
+.social {
+    font-size: 24px;
+}
+#two {
+    background-color: rgb(163, 249, 163);
+    font-size: 24px;
+    font-weight: bold;
+}
